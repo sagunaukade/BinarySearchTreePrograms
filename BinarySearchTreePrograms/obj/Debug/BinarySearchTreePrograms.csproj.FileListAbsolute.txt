@@ -1,0 +1,8 @@
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\BinarySearchTreePrograms\BinarySearchTreePrograms\bin\Debug\BinarySearchTreePrograms.exe.config
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\BinarySearchTreePrograms\BinarySearchTreePrograms\bin\Debug\BinarySearchTreePrograms.exe
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\BinarySearchTreePrograms\BinarySearchTreePrograms\bin\Debug\BinarySearchTreePrograms.pdb
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\BinarySearchTreePrograms\BinarySearchTreePrograms\obj\Debug\BinarySearchTreePrograms.csproj.AssemblyReference.cache
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\BinarySearchTreePrograms\BinarySearchTreePrograms\obj\Debug\BinarySearchTreePrograms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\BinarySearchTreePrograms\BinarySearchTreePrograms\obj\Debug\BinarySearchTreePrograms.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\BinarySearchTreePrograms\BinarySearchTreePrograms\obj\Debug\BinarySearchTreePrograms.exe
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\BinarySearchTreePrograms\BinarySearchTreePrograms\obj\Debug\BinarySearchTreePrograms.pdb
